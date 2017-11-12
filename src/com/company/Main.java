@@ -7,5 +7,6 @@ public class Main {
         System.out.println("");
         System.out.println("sssss");
         System.out.println("fdfddd");
+        System.out.println();
     }
 }
